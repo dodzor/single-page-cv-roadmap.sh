@@ -1,5 +1,5 @@
 # Single Page CV roadmap.sh 📄
-# https://roadmap.sh/projects/single-page-cv
+## https://roadmap.sh/projects/single-page-cv
 
 Create a single-page HTML CV to showcase your career history
 
@@ -18,10 +18,10 @@ The goal of this project is to teach you how to create a structured, single-page
 ## 📋 Submission Checklist
 
 - ✅ Semantically correct HTML structure
-- Single-page layout with sections for education, skills, and career history.
-- SEO meta tags in the head section.
-- OG tags for better social media sharing.
-- A favicon linked in the head section.
+- ✅ Single-page layout with sections for education, skills, and career history.
+- ✅ SEO meta tags in the head section.
+- ✅ OG tags for better social media sharing.
+- ✅ A favicon linked in the head section.
 
 ## 🚀 Getting Started
 
